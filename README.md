@@ -1,5 +1,6 @@
 # Creately_VPCPubPrivateSubnets
 
 
-![alt text](https://ibb.co/3r9GdHR)
+![alt text](https://raw.githubusercontent.com/gurdeepsira/Creately_VPCPubPrivateSubnets/master/New VPC with Public and Private Subnets.png)
+
 
